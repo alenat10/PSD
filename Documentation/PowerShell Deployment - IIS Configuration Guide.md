@@ -92,7 +92,7 @@ The following IIS components are required to ensure that PSD functions as expect
      * Windows Authentication
      
 * Management Tools
-     * IIS Management Compatability 
+     * IIS Management Console 
      * IIS 6 Management Compatibility
           * IIS 6 Metabase Compatability
 
